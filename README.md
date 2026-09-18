@@ -268,10 +268,6 @@ Being upfront about what this project is *not*:
 
 <div align="center">
 
-**Birzeit University · Computer Science Department · COMP4388: Machine Learning**
-
-Built by **Abdallah Aabed** (1210802)
-
 ⭐ If you found this useful, consider starring the repo!
 
 </div>
